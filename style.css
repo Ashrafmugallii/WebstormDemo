@@ -9,3 +9,10 @@ th{
 tr{
     font-family: "Arial Black";
 }
+li {
+    padding-bottom: 1px;
+    font-family:  cursive;
+}
+body{
+    background-color: bisque;
+}

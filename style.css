@@ -137,3 +137,14 @@ img{
 img {
     border-radius: 5px 5px 0 0;
 }
+table {
+    width: 100%;
+}
+
+th {
+    height: 70px;
+}
+
+tr {
+    margin-right: 60px;
+}
